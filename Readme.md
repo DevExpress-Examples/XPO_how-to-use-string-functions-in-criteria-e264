@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [UpperFunctionTest.cs](./CS/UpperFunctionTest.cs) (VB: [UpperFunctionTest.vb](./VB/UpperFunctionTest.vb))
+<!-- default file list end -->
 # How to use string functions in criteria
 
 
